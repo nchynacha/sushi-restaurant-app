@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# test_5
+
+#sushi-restaurant-app
 
 A new Flutter project.
 
