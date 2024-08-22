@@ -1,7 +1,8 @@
 
 # **sushi-restaurant-app**
 
-
+<br>
+<p align=center>Below are some screenshots showcasing the project</p>
 
 <br>
 <p align=center>
